@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://farm9.staticflickr.com/8329/8102458096_9fe55a2cd2_o.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+p{
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: white;
+  padding-top: 20px;
+  padding-left: 170px;
+  padding-right: 170px;
+  font-size: 18px;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: white;
+  padding-top:3%;
+}
+
+select{
+  font-family: 'Helvetica';
+  font-weight: bold;
+  text-align: center;
+  border: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  padding: 0 0 0 20px;
+}
+
+form{
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+
+#left{
+  color: white;
+  opasity: 0.5;
+  text-align: center;
+  padding-top:8%;
+  font-size: 20px;
+}
+
+#right{
+  color: white;
+  text-align: center;
+  padding-top:3%;
+  font-size: 20px;
+}
+
+#but{
+  opacity: 0.6;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin-top:3%;
+}
+
+#output_container{
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 20px;
+  color: white;
+  width: 600px;
+  padding-top: 20px;
+}
+
+#second_output_container{
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 20px;
+  color: white;
+  width: 600px;
+  padding-bottom: 50px;
+}
